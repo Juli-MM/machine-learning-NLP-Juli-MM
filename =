@@ -1,0 +1,4 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting regex
+  Downloading regex-2024.4.28-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (774 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 774.1/774.1 kB 24.2 MB/s eta 0:00:00
